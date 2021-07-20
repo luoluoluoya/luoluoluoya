@@ -27,8 +27,7 @@
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=luoluoluoya&repo=os" />
 </a>
 <br/>
-[![eternidad33's contribution graph as a Game of Life](https://github4life.herokuapp.com/eternidad33.gif)](https://github4life.herokuapp.com/eternidad33)
+
+[![luoluoluoya's contribution graph as a Game of Life](https://github4life.herokuapp.com/luoluoluoya.gif)](https://github4life.herokuapp.com/luoluoluoya)
 
 </details>
-
-
