@@ -25,7 +25,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=luoluoluoya&repo=algorithm" />
 </a>    
 <a href="https://gitee.com/luoluoluoya/leetcode">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=luoluoluoya&repo=os" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=luoluoluoya&repo=system" />
 </a>
 <br/>
 
