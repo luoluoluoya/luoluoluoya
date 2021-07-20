@@ -1,6 +1,34 @@
-### luoluoluoya 👋
-- 🔭 目前从事php开发工作
-- 🌱 正在学习计算机基础
-- 📫 MTg2ODQwODU4NDBAMTYzLmNvbQ==
+<h2 align="center">👋 欢迎访问我的GitHub</h2>
+<p align="center">
+  <a href="https://github.com/luoluoluoya"><img src="https://img.shields.io/badge/GitHub-ff79c6" alt="github"></a>
+  <a href="https://leetcode-cn.com/u/_luoluoluoya/"><img src="https://img.shields.io/badge/Leetcode-fe7300" label="leetcode"></a>
+</p>
+<img align='right' src="https://profile-counter.glitch.me/luoluoluoya/count.svg" alt="访客数量"/>
 
-[![luoluoluoya's github stats](https://github-readme-stats.vercel.app/api?username=luoluoluoya)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center">基本情况</h3>
+- N流互联网公司非专业PHP程序猿一枚 🐻
+- 职业: PHP开发 💨
+- 后端: PHP, C, C++ 🔥
+- 邮箱: MTg2ODQwODU4NDBAMTYzLmNvbQ== 📫
+
+<details>
+<summary>GitHub统计信息</summary>
+<br/>
+<a href="https://github.com/luoluoluoya/luoluoluoya">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=luoluoluoya&show_icons=true" />
+</a>
+<br/>
+近期更新的仓库
+<br/>
+<a href="https://github.com/luoluoluoya/luoluoluoya">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=luoluoluoya&repo=algorithm" />
+</a>    
+<a href="https://gitee.com/luoluoluoya/leetcode">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=luoluoluoya&repo=os" />
+</a>
+<br/>
+[![eternidad33's contribution graph as a Game of Life](https://github4life.herokuapp.com/eternidad33.gif)](https://github4life.herokuapp.com/eternidad33)
+
+</details>
+
+
