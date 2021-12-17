@@ -7,7 +7,6 @@
 
 <h3 align="center">基本情况</h3>
 
-- N流互联网公司非专业PHP程序猿一枚 🐻
 - **职业**: PHP开发 💨
 - **后端**: PHP, C, C++ 🔥
 - **邮箱**: MTg2ODQwODU4NDBAMTYzLmNvbQ== 📫
