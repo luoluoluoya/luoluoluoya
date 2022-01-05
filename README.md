@@ -8,7 +8,7 @@
 <h3 align="center">基本情况</h3>
 
 - **职业**: PHP开发 💨
-- **后端**: PHP, C, C++ 🔥
+- **后端**: PHP, C, C++, Golang 🔥
 - **邮箱**: MTg2ODQwODU4NDBAMTYzLmNvbQ== 📫
 
 <details>
